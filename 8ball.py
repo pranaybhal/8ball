@@ -1,5 +1,5 @@
 name = "leo"
-question = "will i get laid tonight"
+question = "will i get food tonight"
 answer  = ""
 import random
 random_number = random.randint(1, 9)
